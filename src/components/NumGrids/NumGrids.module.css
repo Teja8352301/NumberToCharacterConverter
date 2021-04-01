@@ -1,0 +1,9 @@
+.NumGrids {
+  width: 75px;
+  height: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: lightgrey;
+  cursor: pointer;
+}

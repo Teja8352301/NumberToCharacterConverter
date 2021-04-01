@@ -1,0 +1,11 @@
+.Output {
+  display: flex;
+  height: 22px;
+  padding: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  align-items: center;
+  background-color: white;
+  margin-bottom: 3px;
+  width: 223px;
+}
